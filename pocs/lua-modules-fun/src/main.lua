@@ -1,0 +1,5 @@
+mymathmodule = require("src/mymath")
+print(mymathmodule.add(10,20))
+print(mymathmodule.sub(30,20))
+print(mymathmodule.mul(10,20))
+print(mymathmodule.div(30,20))
