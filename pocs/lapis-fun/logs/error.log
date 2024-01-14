@@ -1,0 +1,130 @@
+2024/01/13 16:40:55 [alert] 2269230#2269230: lua_code_cache is off; this will hurt performance in /home/diego/git/diegopacheco/lua-playground/pocs/lapis-fun/nginx.conf.compiled:20
+2024/01/13 16:40:55 [error] 2269230#2269230: init_by_lua error: init_by_lua(nginx.conf.compiled:14):2: module 'lpeg' not found:
+	no field package.preload['lpeg']
+	no file '/usr/local/openresty/site/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.lua'
+	no file '/usr/local/openresty/lualib/lpeg.lua'
+	no file '/usr/local/openresty/lualib/lpeg/init.lua'
+	no file './lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg.so'
+	no file '/usr/local/openresty/lualib/lpeg.so'
+	no file './lpeg.so'
+	no file '/usr/local/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua(nginx.conf.compiled:14):2: in main chunk
+2024/01/13 16:41:16 [alert] 2271759#2271759: lua_code_cache is off; this will hurt performance in /home/diego/git/diegopacheco/lua-playground/pocs/lapis-fun/nginx.conf.compiled:20
+2024/01/13 16:41:16 [error] 2271759#2271759: init_by_lua error: init_by_lua(nginx.conf.compiled:14):2: module 'lpeg' not found:
+	no field package.preload['lpeg']
+	no file '/usr/local/openresty/site/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.lua'
+	no file '/usr/local/openresty/lualib/lpeg.lua'
+	no file '/usr/local/openresty/lualib/lpeg/init.lua'
+	no file './lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg.so'
+	no file '/usr/local/openresty/lualib/lpeg.so'
+	no file './lpeg.so'
+	no file '/usr/local/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua(nginx.conf.compiled:14):2: in main chunk
+2024/01/13 16:41:36 [alert] 2274161#2274161: lua_code_cache is off; this will hurt performance in /home/diego/git/diegopacheco/lua-playground/pocs/lapis-fun/nginx.conf.compiled:20
+2024/01/13 16:41:36 [error] 2274161#2274161: init_by_lua error: init_by_lua(nginx.conf.compiled:14):2: module 'lpeg' not found:
+	no field package.preload['lpeg']
+	no file '/usr/local/openresty/site/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.lua'
+	no file '/usr/local/openresty/lualib/lpeg.lua'
+	no file '/usr/local/openresty/lualib/lpeg/init.lua'
+	no file './lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg.so'
+	no file '/usr/local/openresty/lualib/lpeg.so'
+	no file './lpeg.so'
+	no file '/usr/local/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua(nginx.conf.compiled:14):2: in main chunk
+2024/01/13 16:42:15 [alert] 2278598#2278598: lua_code_cache is off; this will hurt performance in /home/diego/git/diegopacheco/lua-playground/pocs/lapis-fun/nginx.conf.compiled:20
+2024/01/13 16:42:15 [error] 2278598#2278598: init_by_lua error: init_by_lua(nginx.conf.compiled:14):2: module 'lpeg' not found:
+	no field package.preload['lpeg']
+	no file '/usr/local/openresty/site/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.lua'
+	no file '/usr/local/openresty/lualib/lpeg.lua'
+	no file '/usr/local/openresty/lualib/lpeg/init.lua'
+	no file './lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg.so'
+	no file '/usr/local/openresty/lualib/lpeg.so'
+	no file './lpeg.so'
+	no file '/usr/local/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua(nginx.conf.compiled:14):2: in main chunk
+2024/01/13 16:45:51 [alert] 2302150#2302150: lua_code_cache is off; this will hurt performance in /home/diego/git/diegopacheco/lua-playground/pocs/lapis-fun/nginx.conf.compiled:20
+2024/01/13 16:45:51 [error] 2302150#2302150: init_by_lua error: init_by_lua(nginx.conf.compiled:14):2: module 'lpeg' not found:
+	no field package.preload['lpeg']
+	no file '/usr/local/openresty/site/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.lua'
+	no file '/usr/local/openresty/lualib/lpeg.lua'
+	no file '/usr/local/openresty/lualib/lpeg/init.lua'
+	no file './lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg.so'
+	no file '/usr/local/openresty/lualib/lpeg.so'
+	no file './lpeg.so'
+	no file '/usr/local/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua(nginx.conf.compiled:14):2: in main chunk
